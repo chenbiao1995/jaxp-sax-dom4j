@@ -253,4 +253,5 @@ public class TestDom4j {
 		String value = p1.attributeValue("id1");
 		System.out.println(value);
 	}
+
 }
